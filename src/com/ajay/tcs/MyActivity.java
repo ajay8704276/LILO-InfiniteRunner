@@ -11,8 +11,5 @@ public class MyActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        System.out.print("ajay");
-        System.out.print("ajay");
-
     }
 }
