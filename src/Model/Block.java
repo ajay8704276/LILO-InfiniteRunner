@@ -1,7 +1,8 @@
 package Model;
 
 import android.graphics.Rect;
-import com.jamescho.framework.util.RandomNumberGenerator;
+import util.RandomNumberGenerator;
+
 
 public class Block {
 	private float x, y;
